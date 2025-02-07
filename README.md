@@ -117,7 +117,7 @@ Mata Kuliah : Machine Learning<br>
   ### 2.2.	Kode pada file *hasil.html*
   ![image](https://github.com/user-attachments/assets/21b56a75-075f-465b-b2fa-6f2a7484309a)<br>
   ### 2.3.	Tampilan aplikasi
-  Terdapat beberapa perubahan yang saya buat pada tampilan aplikasi. Berikut merupakan tampilan aplikasi yang sudah diperbarui.<br><br>
+  Terdapat beberapa perubahan yang saya buat pada tampilan aplikasi. Berikut merupakan tampilan aplikasi yang sudah diperbarui.<br>
   #### 2.3.1.	Tampilan Form
   ![image](https://github.com/user-attachments/assets/7b598874-3e6e-46b6-bc11-34d64d68a3eb)<br>
   #### 2.3.2.	Tampilan Hasil
