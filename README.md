@@ -80,58 +80,58 @@ Mata Kuliah : Machine Learning<br>
 
 ## 1.	Membuat UI Aplikasi *Machine Learning* Berbasis Web *Python*
 ### 1.1.	Melakukan instalasi *virtualenv*
-  ![image](https://github.com/user-attachments/assets/417b4975-0b1f-41f3-968b-0e24629cad71)<br><br>
+  ![image](https://github.com/user-attachments/assets/417b4975-0b1f-41f3-968b-0e24629cad71)<br>
 ### 1.2.	Membuat virtualenv dan menjalankan *active.bat*
-  ![image](https://github.com/user-attachments/assets/ca347249-4107-4b87-b9f2-077ef09d938d)<br><br>
+  ![image](https://github.com/user-attachments/assets/ca347249-4107-4b87-b9f2-077ef09d938d)<br>
 ### 1.3.	Menginstall *Flask*
-  ![image](https://github.com/user-attachments/assets/380767e1-1c4d-4fd6-a17f-a6f5d0655430)<br><br>
+  ![image](https://github.com/user-attachments/assets/380767e1-1c4d-4fd6-a17f-a6f5d0655430)<br>
 ### 1.4.	Membuat file *app.py*
   Membuat file app.py untuk menuliskan kode aplikasi<br><br>
   ![image](https://github.com/user-attachments/assets/631867ed-6d75-4a63-8fcc-e63da8bc719a)<br><br>
 ### 1.4.	Menyambungkan template UI ke *app.py*
   Pada tahap ini dilakukan pembuatan folder baru yaitu folder static pada direktori root aplikasi (diluar folder env) yang di dalamnya pun di buat folder lagi dengan nama css. Pada folder css akan dijadikan direktori untuk menyimpan file styling dari template yang akan digunakan (CSS, Javascript). Kemudian dibuat juga folder templates untuk menyimpan file html. Berikut adalah struktur folder nya.<br><br>
-  ![image](https://github.com/user-attachments/assets/f84ed85e-2c1b-4c3e-84f4-63e59860ef39)<br><br>
+  ![image](https://github.com/user-attachments/assets/f84ed85e-2c1b-4c3e-84f4-63e59860ef39)<br>
   #### 1.5.1.	Kode pada file *base.html*
   ![image](https://github.com/user-attachments/assets/775565b3-b802-4bbe-b8ed-a22bd2445264)
-  ![image](https://github.com/user-attachments/assets/8cf891f5-288d-452e-90d1-c1243a332572)<br><br>
+  ![image](https://github.com/user-attachments/assets/8cf891f5-288d-452e-90d1-c1243a332572)<br>
   #### 1.5.2.	Kode pada file *index.html*
   ![image](https://github.com/user-attachments/assets/59eb53e9-45a4-48dc-8998-edf086c682a4)
   ![image](https://github.com/user-attachments/assets/2e4a5b0a-ccd4-4bcd-ae14-e866db80107d)
-  ![image](https://github.com/user-attachments/assets/71e2d8f3-ad5c-4265-97c8-79cc29babcfd)<br><br>
+  ![image](https://github.com/user-attachments/assets/71e2d8f3-ad5c-4265-97c8-79cc29babcfd)<br>
   #### 1.5.3.	Kode pada file *hasil.html*
-  ![image](https://github.com/user-attachments/assets/632e7c9d-504c-4cd5-9798-d222d82cb647)<br><br>
+  ![image](https://github.com/user-attachments/assets/632e7c9d-504c-4cd5-9798-d222d82cb647)<br>
   #### 1.5.4.	Kode pada file *app.py*
   ![image](https://github.com/user-attachments/assets/758236b9-64f0-47c1-bd4a-37c1229826d3)<br><br>
 
 ### 1.6.	Tampilan UI
   #### 1.6.1.	Tampilan ketika form belum di submit
-  ![image](https://github.com/user-attachments/assets/c268463e-b2ba-47e7-8054-509fb3fde7b0)<br><br>
+  ![image](https://github.com/user-attachments/assets/c268463e-b2ba-47e7-8054-509fb3fde7b0)<br>
   #### 1.6.2.	Tampilan ketika form sudah di submit
-  ![image](https://github.com/user-attachments/assets/df3497de-d720-46b4-8e22-4e49f717ad9f)<br><br>
+  ![image](https://github.com/user-attachments/assets/df3497de-d720-46b4-8e22-4e49f717ad9f)<br>
 
 ## 2.	Membuat Logika Aplikasi *Machine Learning* Berbasis Web *Python*
   Pada proses awal ini disiapkan model KNN yang akan digunakan untuk melakukan proses prediksi, kemudian disimpan dalam direktori aplikasi.<br><br>
-  ![image](https://github.com/user-attachments/assets/e5bf7cf2-4050-4145-9b4f-6156d148503d)<br><br>
+  ![image](https://github.com/user-attachments/assets/e5bf7cf2-4050-4145-9b4f-6156d148503d)<br>
   ### 2.1.	Kode pada file *app.py*
-  ![image](https://github.com/user-attachments/assets/61df0b3f-b69d-46c3-8a3a-ac5fa7aa0687)<br><br>
+  ![image](https://github.com/user-attachments/assets/61df0b3f-b69d-46c3-8a3a-ac5fa7aa0687)<br>
   ### 2.2.	Kode pada file *hasil.html*
-  ![image](https://github.com/user-attachments/assets/21b56a75-075f-465b-b2fa-6f2a7484309a)<br><br>
+  ![image](https://github.com/user-attachments/assets/21b56a75-075f-465b-b2fa-6f2a7484309a)<br>
   ### 2.3.	Tampilan aplikasi
   Terdapat beberapa perubahan yang saya buat pada tampilan aplikasi. Berikut merupakan tampilan aplikasi yang sudah diperbarui.<br><br>
   #### 2.3.1.	Tampilan Form
-  ![image](https://github.com/user-attachments/assets/7b598874-3e6e-46b6-bc11-34d64d68a3eb)<br><br>
+  ![image](https://github.com/user-attachments/assets/7b598874-3e6e-46b6-bc11-34d64d68a3eb)<br>
   #### 2.3.2.	Tampilan Hasil
-  ![image](https://github.com/user-attachments/assets/e66999ab-4ca0-4b58-87ff-6f5169adab50)<br><br>
+  ![image](https://github.com/user-attachments/assets/e66999ab-4ca0-4b58-87ff-6f5169adab50)<br>
 
 ## 3.	Deployment Aplikasi *(Hosting)*
   Provider yang digunakan untuk hosting aplikasi ini adalah Railway. Tahapan awal deployment dilakukan dengan cara melakukan upload project terlebih dahulu kedalam repository GitHub, kemudian melalui Railway di hubungkan ke repository GitHub yang digunakan untuk aplikasi ini. Setelah repository terhubung, Railway akan secara otomatis melakukan deployment.<br><br>
-  ![image](https://github.com/user-attachments/assets/2ca95d07-33b9-4cfb-be80-1bddb4c54584)<br><br>
+  ![image](https://github.com/user-attachments/assets/2ca95d07-33b9-4cfb-be80-1bddb4c54584)<br>
   Adapun domain dari aplikasi ini adalah https://deteksi-diabetes-app.up.railway.app/
   <br><br>
   ### 3.1.	Tampilan Setelah Hosting
   #### 3.1.1.	Tampilan Form
-  ![image](https://github.com/user-attachments/assets/a20b7f93-deaa-4b7c-b050-4e89f2cbb77d)<br><br>
+  ![image](https://github.com/user-attachments/assets/a20b7f93-deaa-4b7c-b050-4e89f2cbb77d)<br>
   #### 3.1.2.	Tampilan Hasil Positif
-  ![image](https://github.com/user-attachments/assets/d44e189d-f01d-49b3-b8f4-0e42201e1dbc)<br><br>
+  ![image](https://github.com/user-attachments/assets/d44e189d-f01d-49b3-b8f4-0e42201e1dbc)<br>
   #### 3.1.3.	Tampilan Hasil Negatif
   ![image](https://github.com/user-attachments/assets/aeff6fea-f180-4cea-81c3-e07dd108b863)
