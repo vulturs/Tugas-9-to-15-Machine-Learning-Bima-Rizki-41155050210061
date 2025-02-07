@@ -87,8 +87,8 @@ Mata Kuliah : Machine Learning<br>
   ![image](https://github.com/user-attachments/assets/380767e1-1c4d-4fd6-a17f-a6f5d0655430)<br>
 ### 1.4.	Membuat file *app.py*
   Membuat file app.py untuk menuliskan kode aplikasi<br><br>
-  ![image](https://github.com/user-attachments/assets/631867ed-6d75-4a63-8fcc-e63da8bc719a)<br><br>
-### 1.4.	Menyambungkan template UI ke *app.py*
+  ![image](https://github.com/user-attachments/assets/631867ed-6d75-4a63-8fcc-e63da8bc719a)<br>
+### 1.5.	Menyambungkan template UI ke *app.py*
   Pada tahap ini dilakukan pembuatan folder baru yaitu folder static pada direktori root aplikasi (diluar folder env) yang di dalamnya pun di buat folder lagi dengan nama css. Pada folder css akan dijadikan direktori untuk menyimpan file styling dari template yang akan digunakan (CSS, Javascript). Kemudian dibuat juga folder templates untuk menyimpan file html. Berikut adalah struktur folder nya.<br><br>
   ![image](https://github.com/user-attachments/assets/f84ed85e-2c1b-4c3e-84f4-63e59860ef39)<br>
   #### 1.5.1.	Kode pada file *base.html*
@@ -107,7 +107,7 @@ Mata Kuliah : Machine Learning<br>
   #### 1.6.1.	Tampilan ketika form belum di submit
   ![image](https://github.com/user-attachments/assets/c268463e-b2ba-47e7-8054-509fb3fde7b0)<br>
   #### 1.6.2.	Tampilan ketika form sudah di submit
-  ![image](https://github.com/user-attachments/assets/df3497de-d720-46b4-8e22-4e49f717ad9f)<br>
+  ![image](https://github.com/user-attachments/assets/df3497de-d720-46b4-8e22-4e49f717ad9f)<br><br>
 
 ## 2.	Membuat Logika Aplikasi *Machine Learning* Berbasis Web *Python*
   Pada proses awal ini disiapkan model KNN yang akan digunakan untuk melakukan proses prediksi, kemudian disimpan dalam direktori aplikasi.<br><br>
@@ -121,7 +121,7 @@ Mata Kuliah : Machine Learning<br>
   #### 2.3.1.	Tampilan Form
   ![image](https://github.com/user-attachments/assets/7b598874-3e6e-46b6-bc11-34d64d68a3eb)<br>
   #### 2.3.2.	Tampilan Hasil
-  ![image](https://github.com/user-attachments/assets/e66999ab-4ca0-4b58-87ff-6f5169adab50)<br>
+  ![image](https://github.com/user-attachments/assets/e66999ab-4ca0-4b58-87ff-6f5169adab50)<br><br>
 
 ## 3.	Deployment Aplikasi *(Hosting)*
   Provider yang digunakan untuk hosting aplikasi ini adalah Railway. Tahapan awal deployment dilakukan dengan cara melakukan upload project terlebih dahulu kedalam repository GitHub, kemudian melalui Railway di hubungkan ke repository GitHub yang digunakan untuk aplikasi ini. Setelah repository terhubung, Railway akan secara otomatis melakukan deployment.<br><br>
