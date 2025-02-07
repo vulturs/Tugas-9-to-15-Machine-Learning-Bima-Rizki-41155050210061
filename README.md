@@ -1,4 +1,4 @@
-Nama        : Bima Rizki Widiatna<br>
+![image](https://github.com/user-attachments/assets/cd13ccf8-aaf2-4cc1-a419-2b48b0b7cbc0)Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2<br>
 Mata Kuliah : Machine Learning<br>
@@ -49,9 +49,9 @@ Mata Kuliah : Machine Learning<br>
 
 
 ---
-# TUGAS PERTEMUAN 11
+# TUGAS PERTEMUAN 12
 
-## PREDIKSI HARGA EMAS DENGAN *BACKPROPAGATION*
+## Prediksi Harga Emas Dengan *BACKPROPAGATION*
   ![image](https://github.com/user-attachments/assets/c184cacb-240f-4c40-9c28-1e2f477567ad)
   ![image](https://github.com/user-attachments/assets/ed624367-34e8-4afe-ba0c-0c00ecb108bd)
   ![image](https://github.com/user-attachments/assets/34f3362a-075f-4475-8fba-fb43c092eae0)
@@ -60,11 +60,78 @@ Mata Kuliah : Machine Learning<br>
   ![image](https://github.com/user-attachments/assets/877e3422-189c-4713-bba3-b5a6aab8a732)
   ![image](https://github.com/user-attachments/assets/ff041fad-445c-46ce-b893-833c59679ea0)
   ![image](https://github.com/user-attachments/assets/929775c5-73e4-441e-9aa7-ee8224e7e368)
-  ![image](https://github.com/user-attachments/assets/e64e0429-538a-4509-8040-3ad4f1510e67)<br>
-  Grafik dengan warna biru adalah grafik data hasil prediksi, sedangkan grafik berwarna merah merupakan grafik data aktual.<br>
+  ![image](https://github.com/user-attachments/assets/e64e0429-538a-4509-8040-3ad4f1510e67)<br><br>
+  Grafik dengan warna biru adalah grafik data hasil prediksi, sedangkan grafik berwarna merah merupakan grafik data aktual.<br><br>
   ![image](https://github.com/user-attachments/assets/0cc31f47-1c94-48d0-86e0-e87954f87557)
-  ![image](https://github.com/user-attachments/assets/1c891418-6db2-418b-8534-3680cca169a4)
+  ![image](https://github.com/user-attachments/assets/1c891418-6db2-418b-8534-3680cca169a4)<br><br><br>
 
 
-### 1.1.	Download dan Instalasi Library python seperti *NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn*
-   #### 1.1.1.	Instalasi *Library numpy*
+---
+# TUGAS PERTEMUAN 13
+
+## Algoritma *Self Organizing Maps (SOM)*
+  ![image](https://github.com/user-attachments/assets/cf83fb8c-2a9b-438a-be1a-03dcc698218d)
+  ![image](https://github.com/user-attachments/assets/66c9d0a7-0cac-48ba-a53f-3bc4ff226cfc)
+  ![image](https://github.com/user-attachments/assets/76a9e5aa-d79d-47f7-a0a8-6aa9f9c1cb17)<br><br><br>
+
+
+---
+# TUGAS PERTEMUAN 15
+
+## 1.	Membuat UI Aplikasi *Machine Learning* Berbasis Web *Python*
+### 1.1.	Melakukan instalasi *virtualenv*
+  ![image](https://github.com/user-attachments/assets/417b4975-0b1f-41f3-968b-0e24629cad71)<br><br>
+### 1.2.	Membuat virtualenv dan menjalankan *active.bat*
+  ![image](https://github.com/user-attachments/assets/ca347249-4107-4b87-b9f2-077ef09d938d)<br><br>
+### 1.3.	Menginstall *Flask*
+  ![image](https://github.com/user-attachments/assets/380767e1-1c4d-4fd6-a17f-a6f5d0655430)<br><br>
+### 1.4.	Membuat file *app.py*
+  Membuat file app.py untuk menuliskan kode aplikasi<br><br>
+  ![image](https://github.com/user-attachments/assets/631867ed-6d75-4a63-8fcc-e63da8bc719a)<br><br>
+### 1.4.	Menyambungkan template UI ke *app.py*
+  Pada tahap ini dilakukan pembuatan folder baru yaitu folder static pada direktori root aplikasi (diluar folder env) yang di dalamnya pun di buat folder lagi dengan nama css. Pada folder css akan dijadikan direktori untuk menyimpan file styling dari template yang akan digunakan (CSS, Javascript). Kemudian dibuat juga folder templates untuk menyimpan file html. Berikut adalah struktur folder nya.<br><br>
+  ![image](https://github.com/user-attachments/assets/f84ed85e-2c1b-4c3e-84f4-63e59860ef39)<br><br>
+  #### 1.5.1.	Kode pada file *base.html*
+  ![image](https://github.com/user-attachments/assets/775565b3-b802-4bbe-b8ed-a22bd2445264)
+  ![image](https://github.com/user-attachments/assets/8cf891f5-288d-452e-90d1-c1243a332572)<br><br>
+  #### 1.5.2.	Kode pada file *index.html*
+  ![image](https://github.com/user-attachments/assets/59eb53e9-45a4-48dc-8998-edf086c682a4)
+  ![image](https://github.com/user-attachments/assets/2e4a5b0a-ccd4-4bcd-ae14-e866db80107d)
+  ![image](https://github.com/user-attachments/assets/71e2d8f3-ad5c-4265-97c8-79cc29babcfd)<br><br>
+  #### 1.5.3.	Kode pada file *hasil.html*
+  ![image](https://github.com/user-attachments/assets/632e7c9d-504c-4cd5-9798-d222d82cb647)<br><br>
+  #### 1.5.4.	Kode pada file *app.py*
+  ![image](https://github.com/user-attachments/assets/758236b9-64f0-47c1-bd4a-37c1229826d3)<br><br>
+
+### 1.6.	Tampilan UI
+  #### 1.6.1.	Tampilan ketika form belum di submit
+  ![image](https://github.com/user-attachments/assets/c268463e-b2ba-47e7-8054-509fb3fde7b0)<br><br>
+  #### 1.6.2.	Tampilan ketika form sudah di submit
+  ![image](https://github.com/user-attachments/assets/df3497de-d720-46b4-8e22-4e49f717ad9f)<br><br>
+
+## 2.	Membuat Logika Aplikasi *Machine Learning* Berbasis Web *Python*
+  Pada proses awal ini disiapkan model KNN yang akan digunakan untuk melakukan proses prediksi, kemudian disimpan dalam direktori aplikasi.<br><br>
+  ![image](https://github.com/user-attachments/assets/e5bf7cf2-4050-4145-9b4f-6156d148503d)<br><br>
+  ### 2.1.	Kode pada file *app.py*
+  ![image](https://github.com/user-attachments/assets/61df0b3f-b69d-46c3-8a3a-ac5fa7aa0687)<br><br>
+  ### 2.2.	Kode pada file *hasil.html*
+  ![image](https://github.com/user-attachments/assets/21b56a75-075f-465b-b2fa-6f2a7484309a)<br><br>
+  ### 2.3.	Tampilan aplikasi
+  Terdapat beberapa perubahan yang saya buat pada tampilan aplikasi. Berikut merupakan tampilan aplikasi yang sudah diperbarui.<br><br>
+  #### 2.3.1.	Tampilan Form
+  ![image](https://github.com/user-attachments/assets/7b598874-3e6e-46b6-bc11-34d64d68a3eb)<br><br>
+  #### 2.3.2.	Tampilan Hasil
+  ![image](https://github.com/user-attachments/assets/e66999ab-4ca0-4b58-87ff-6f5169adab50)<br><br>
+
+## 3.	Deployment Aplikasi *(Hosting)*
+  Provider yang digunakan untuk hosting aplikasi ini adalah Railway. Tahapan awal deployment dilakukan dengan cara melakukan upload project terlebih dahulu kedalam repository GitHub, kemudian melalui Railway di hubungkan ke repository GitHub yang digunakan untuk aplikasi ini. Setelah repository terhubung, Railway akan secara otomatis melakukan deployment.<br><br>
+  ![image](https://github.com/user-attachments/assets/2ca95d07-33b9-4cfb-be80-1bddb4c54584)<br><br>
+  Adapun domain dari aplikasi ini adalah https://deteksi-diabetes-app.up.railway.app/
+  <br><br>
+  ### 3.1.	Tampilan Setelah Hosting
+  #### 3.1.1.	Tampilan Form
+  ![image](https://github.com/user-attachments/assets/a20b7f93-deaa-4b7c-b050-4e89f2cbb77d)<br><br>
+  #### 3.1.2.	Tampilan Hasil Positif
+  ![image](https://github.com/user-attachments/assets/d44e189d-f01d-49b3-b8f4-0e42201e1dbc)<br><br>
+  #### 3.1.3.	Tampilan Hasil Negatif
+  ![image](https://github.com/user-attachments/assets/aeff6fea-f180-4cea-81c3-e07dd108b863)
