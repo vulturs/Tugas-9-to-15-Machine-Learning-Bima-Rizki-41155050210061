@@ -1,1 +1,31 @@
-# Tugas-9-to-15-Machine-Learning-Bima-Rizki-41155050210061
+Nama        : Bima Rizki Widiatna<br>
+NPM		   : 41155050210061<br>
+Prodi/Kelas	: Teknik Informatika/A2<br>
+Mata Kuliah : Machine Learning<br>
+> Kumpulan Tugas Pertemuan 9 s/d Pertemuan 15
+---
+# TUGAS PERTEMUAN 9
+
+## 1.	Koneksi dengan *Google Drive*
+  ![image](https://github.com/user-attachments/assets/2bde89e0-9284-4354-8af5-db6eb99e95d0)<br><br>
+  ![image](https://github.com/user-attachments/assets/3abddc88-46fc-4f8e-b14a-a2d127fcc223)<br><br>
+  	
+## 2.	Import library yang dibutuhkan
+  ![image](https://github.com/user-attachments/assets/c488bf96-0236-4bbb-867a-37bd275de13d)
+
+## 3.	Menyiapkan Dataset
+  ![image](https://github.com/user-attachments/assets/ec298c89-c0be-4aab-834d-238474883851)
+  ![image](https://github.com/user-attachments/assets/bc832a7a-d36c-4f45-a07c-c8a7ff271ac9)
+  ![image](https://github.com/user-attachments/assets/4bc10b49-2066-463d-96c3-d08768d70627)
+
+## 4.	Menggunakan library *K-Means*
+  ![image](https://github.com/user-attachments/assets/795c2b6a-928c-4779-afb9-2667982bec19)
+  ![image](https://github.com/user-attachments/assets/f753f3c6-edfc-416f-a031-d4b0ba1b0b52)
+
+## 5.	Menampilkan Output
+  ![image](https://github.com/user-attachments/assets/86dd24aa-352b-4fac-9ba2-a83957807fe6)
+  ![image](https://github.com/user-attachments/assets/11e17fbd-48d4-4e45-a09d-a1b03d11b0fd)
+
+
+### 1.1.	Download dan Instalasi Library python seperti *NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn*
+   #### 1.1.1.	Instalasi *Library numpy*
