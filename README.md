@@ -126,7 +126,7 @@ Mata Kuliah : Machine Learning<br>
 ## 3.	Deployment Aplikasi *(Hosting)*
   Provider yang digunakan untuk hosting aplikasi ini adalah Railway. Tahapan awal deployment dilakukan dengan cara melakukan upload project terlebih dahulu kedalam repository GitHub, kemudian melalui Railway di hubungkan ke repository GitHub yang digunakan untuk aplikasi ini. Setelah repository terhubung, Railway akan secara otomatis melakukan deployment.<br><br>
   ![image](https://github.com/user-attachments/assets/2ca95d07-33b9-4cfb-be80-1bddb4c54584)<br><br>
-  > Adapun domain dari aplikasi ini adalah https://deteksi-diabetes-app.up.railway.app/<br>
+  > Adapun domain dari aplikasi ini adalah https://deteksi-diabetes-app.up.railway.app/<br><br>
   ### 3.1.	Tampilan Setelah Hosting
   #### 3.1.1.	Tampilan Form
   ![image](https://github.com/user-attachments/assets/a20b7f93-deaa-4b7c-b050-4e89f2cbb77d)<br>
