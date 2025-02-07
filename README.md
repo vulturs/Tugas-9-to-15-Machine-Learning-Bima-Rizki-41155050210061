@@ -24,7 +24,7 @@ Mata Kuliah : Machine Learning<br>
 
 ## 5.	Menampilkan Output
   ![image](https://github.com/user-attachments/assets/86dd24aa-352b-4fac-9ba2-a83957807fe6)
-  ![image](https://github.com/user-attachments/assets/11e17fbd-48d4-4e45-a09d-a1b03d11b0fd)<br><br>
+  ![image](https://github.com/user-attachments/assets/11e17fbd-48d4-4e45-a09d-a1b03d11b0fd)<br><br><br>
 
 
 ---
@@ -45,7 +45,26 @@ Mata Kuliah : Machine Learning<br>
   ![image](https://github.com/user-attachments/assets/a380e075-7d81-4e85-a1f6-9db87c92ec99)
   ![image](https://github.com/user-attachments/assets/b43f1387-5123-4652-a3d3-5be256076952)
   ![image](https://github.com/user-attachments/assets/ffaf3d81-5c51-4c5f-b6fd-64dc544f40ae)
-  ![image](https://github.com/user-attachments/assets/37be783c-8e6a-49aa-9607-d84abd290312)<br><br>
+  ![image](https://github.com/user-attachments/assets/37be783c-8e6a-49aa-9607-d84abd290312)<br><br><br>
+
+
+---
+# TUGAS PERTEMUAN 11
+
+## PREDIKSI HARGA EMAS DENGAN *BACKPROPAGATION*
+  ![image](https://github.com/user-attachments/assets/c184cacb-240f-4c40-9c28-1e2f477567ad)
+  ![image](https://github.com/user-attachments/assets/ed624367-34e8-4afe-ba0c-0c00ecb108bd)
+  ![image](https://github.com/user-attachments/assets/34f3362a-075f-4475-8fba-fb43c092eae0)
+  ![image](https://github.com/user-attachments/assets/16300576-07c5-49a8-85bb-5f046e52a392)
+  ![image](https://github.com/user-attachments/assets/61970802-f0bb-4664-8c6a-36d8460d163a)
+  ![image](https://github.com/user-attachments/assets/877e3422-189c-4713-bba3-b5a6aab8a732)
+  ![image](https://github.com/user-attachments/assets/ff041fad-445c-46ce-b893-833c59679ea0)
+  ![image](https://github.com/user-attachments/assets/929775c5-73e4-441e-9aa7-ee8224e7e368)
+  ![image](https://github.com/user-attachments/assets/e64e0429-538a-4509-8040-3ad4f1510e67)<br>
+  Grafik dengan warna biru adalah grafik data hasil prediksi, sedangkan grafik berwarna merah merupakan grafik data aktual.<br>
+  ![image](https://github.com/user-attachments/assets/0cc31f47-1c94-48d0-86e0-e87954f87557)
+  ![image](https://github.com/user-attachments/assets/1c891418-6db2-418b-8534-3680cca169a4)
+
 
 ### 1.1.	Download dan Instalasi Library python seperti *NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn*
    #### 1.1.1.	Instalasi *Library numpy*
