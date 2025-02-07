@@ -34,18 +34,18 @@ Mata Kuliah : Machine Learning<br>
   ![image](https://github.com/user-attachments/assets/f27019c3-db75-4a95-91c0-f18ba9490b14)
   ![image](https://github.com/user-attachments/assets/de700348-7690-41f3-8e2c-3ef531429542)
   ![image](https://github.com/user-attachments/assets/ebb240f1-d5f5-420d-9e8d-ea3fe931b53e)
-  ![image](https://github.com/user-attachments/assets/d3620917-8106-4fa8-b3c4-8cb27c080c5f)
+  ![image](https://github.com/user-attachments/assets/d3620917-8106-4fa8-b3c4-8cb27c080c5f)<br>
   ![image](https://github.com/user-attachments/assets/44164f2c-c71e-4f15-9dab-26e7644765e6)
   ![image](https://github.com/user-attachments/assets/75e6aa55-ca48-41b4-86b8-a19ce426e275)
   ![image](https://github.com/user-attachments/assets/81c5b669-b808-4cc6-8ee8-3b249087a023)
-  ![image](https://github.com/user-attachments/assets/0adf1d1c-24b2-41e6-bf59-b52f693c00d3)
+  ![image](https://github.com/user-attachments/assets/0adf1d1c-24b2-41e6-bf59-b52f693c00d3)<br>
   ![image](https://github.com/user-attachments/assets/07d7b365-a503-4b88-b5ad-eba664273b41)
   ![image](https://github.com/user-attachments/assets/9cc67645-5f3b-41cd-90b0-527d183b2682)
   ![image](https://github.com/user-attachments/assets/258e5f1e-1ed0-47d3-955f-05309ccf6c76)
   ![image](https://github.com/user-attachments/assets/a380e075-7d81-4e85-a1f6-9db87c92ec99)
   ![image](https://github.com/user-attachments/assets/b43f1387-5123-4652-a3d3-5be256076952)
   ![image](https://github.com/user-attachments/assets/ffaf3d81-5c51-4c5f-b6fd-64dc544f40ae)
-  ![image](https://github.com/user-attachments/assets/37be783c-8e6a-49aa-9607-d84abd290312)
+  ![image](https://github.com/user-attachments/assets/37be783c-8e6a-49aa-9607-d84abd290312)<br><br>
 
 ### 1.1.	Download dan Instalasi Library python seperti *NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn*
    #### 1.1.1.	Instalasi *Library numpy*
